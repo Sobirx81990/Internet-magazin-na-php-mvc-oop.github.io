@@ -24,8 +24,5 @@ $router->run();
 
 
 
-/*очень важно!!! чтобы добавить images и css в след проектах не забудь в htaccess прописать это а то работать не будет:
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-*/
+
 ?>
